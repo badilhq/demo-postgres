@@ -1,6 +1,6 @@
 # demo-postgres
 
-Helm chart (`k8s/`) for a single Postgres (`postgres:18-alpine`) used by the doublure demo.
+Helm chart (`k8s/`) for a single Postgres (`postgres:18-alpine`) used by the badil demo.
 
 It runs as the `postgres` catalog service in every preview, so each preview namespace gets its own database.
 
